@@ -1,1 +1,1 @@
-# GK-Sitters
+# GK Sitters
